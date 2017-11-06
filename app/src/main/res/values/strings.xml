@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">HBS App</string>
-
+    <string name="app_name">BHBS App</string>
+    <string name="app_name_full">Bonding Hackathon BS App</string>
+    <string name="app_year">2017</string>
     <!-- chapters -->
     <string name="cap_imprint">Impressum</string>
 
