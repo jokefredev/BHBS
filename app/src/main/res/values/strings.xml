@@ -2,6 +2,7 @@
     <string name="app_name">BHBS App</string>
     <string name="app_name_full">Bonding Hackathon BS App</string>
     <string name="app_year">2017</string>
+    <string name="bs_city">Braunschweig</string>
     <!-- chapters -->
     <string name="cap_imprint">Impressum</string>
 
