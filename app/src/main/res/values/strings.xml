@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HBS App</string>
+
+    <!-- chapters -->
+    <string name="cap_imprint">Impressum</string>
+
+    <!-- headlines -->
+    <string name="h_imprint_members">Team-Mitglieder</string>
+
+    <!-- Imprint Content -->
+    <string name="imprint_desc">Diese App entsteht im Rahmen des Bonding Hackathon 2017 in Braunschweig.</string>
+    <string name="team_member01">R. Kirchner</string>
+    <string name="team_member02">J. Frerichs</string>
+    <string name="team_member03">Empty</string>
+    <string name="team_member04">Empty</string>
+</resources>
