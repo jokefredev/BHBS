@@ -95,7 +95,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(currentLatLng).title("Du bist hier!"));
 
         MarkerOptions mO1 = new MarkerOptions().position(helperLatLng).title("Gassi mit Puschel");
-        MarkerOptions mO2 = new MarkerOptions().position(helperLatLng).title("REWE-Einkauf bei Omi");
+        MarkerOptions mO2 = new MarkerOptions().position(helperLatLng2).title("REWE-Einkauf bei Omi");
         mMap.addMarker(mO1.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
         mMap.addMarker(mO2.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
 
