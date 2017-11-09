@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BHBS App</string>
+    <string name="app_name_full">Bonding Hackathon BS App</string>
+    <string name="app_year">2017</string>
+    <!-- chapters -->
+    <string name="cap_imprint">Impressum</string>
+
+    <!-- kategorien -->
+    <string name="kat00">Bildung</string>
+    <string name="kat01">Ernährung</string>
+    <string name="kat02">Mobilität</string>
+    <string name="kat03">Betreuung</string>
+
+    <!-- Buttons -->
+    <string name="btn_date">Datum wählen</string>
+    <string name="btn_time">Zeit wählen</string>
+    <string name="btn_otherlocation">anderen Ort eingeben</string>
+    <string name="btn_gesuch_send">Gesuch senden</string>
+
+
+    <!-- Placeholder -->
+    <string name="ph_title">Titel/Bezeichnung eingeben</string>
+
+    <!-- headlines -->
+    <string name="h_imprint_members">Team-Mitglieder</string>
+    <string name="h_newevent">Gesuch erstellen</string>
+
+    <!-- Gesuch erstellen -->
+    <string name="gesuch_einleitung">Wählen Sie eine Kategorie aus!</string>
+    <string name="gesuch_ortseinstellung">Es wird ihr aktueller Standort vewendet.</string>
+    <string name="gesuch_beschreibung">Fügen Sie eine Beschreibung ein.</string>
+
+    <!-- Imprint Content -->
+    <string name="imprint_desc">Diese App entsteht im Rahmen des Bonding Hackathon 2017 in Braunschweig.</string>
+    <string name="team_member01">R. Kirchner</string>
+    <string name="team_member02">J. Frerichs</string>
+    <string name="team_member03">D. H. Le</string>
+    <string name="team_member04">S. Mielke</string>
+</resources>
