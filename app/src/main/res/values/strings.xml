@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BHBS App</string>
+    <string name="app_name">HelpHood</string>
     <string name="app_name_full">Bonding Hackathon BS App</string>
     <string name="app_year">2017</string>
     <!-- chapters -->
@@ -14,4 +14,28 @@
     <string name="team_member02">J. Frerichs</string>
     <string name="team_member03">Empty</string>
     <string name="team_member04">Empty</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Benutzername</string>
+    <string name="user_name_test">User1234</string>
+    <string name="category_profile">Abonnierte Kategorien:</string>
+    <string name="user_mail_txt">E-Mail Adresse</string>
+    <string name="user_mail_editText">User1234@gmail.com</string>
+
+    <string name="title_activity_login">HelpHood</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 </resources>
