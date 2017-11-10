@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BHBS App</string>
+    <string name="app_name">HelperHood</string>
     <string name="app_name_full">Bonding Hackathon BS App</string>
     <string name="app_year">2017</string>
     <!-- chapters -->
@@ -9,10 +9,72 @@
     <string name="h_imprint_members">Team-Mitglieder</string>
 
     <!-- Imprint Content -->
+    <!-- kategorien -->
+    <string name="kat00">Bildung</string>
+    <string name="kat01">Ernährung</string>
+    <string name="kat02">Mobilität</string>
+    <string name="kat03">Betreuung</string>
+
+    <!-- Buttons -->
+    <string name="btn_date">Datum wählen</string>
+    <string name="btn_time">Zeit wählen</string>
+    <string name="btn_otherlocation">anderen Ort eingeben</string>
+    <string name="btn_gesuch_send">Gesuch senden</string>
+
+
+    <!-- Placeholder -->
+    <string name="ph_title">Titel/Bezeichnung eingeben</string>
+
+    <!-- headlines -->
+    <string name="h_newevent">Gesuch erstellen</string>
+
+    <!-- Gesuch erstellen -->
+    <string name="gesuch_einleitung">Wählen Sie eine Kategorie aus!</string>
+    <string name="gesuch_ortseinstellung">Es wird ihr aktueller Standort vewendet.</string>
+    <string name="gesuch_beschreibung">Fügen Sie eine Beschreibung ein.</string>
+
+    <!-- Imprint Content -->
     <string name="imprint_desc">Diese App entsteht im Rahmen des Bonding Hackathon 2017 in Braunschweig.</string>
     <string name="team_member01">R. Kirchner</string>
     <string name="team_member02">J. Frerichs</string>
-    <string name="team_member03">Empty</string>
-    <string name="team_member04">Empty</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="team_member03">D. H. Le</string>
+    <string name="team_member04">S. Mielke</string>
+    <string name="title_activity_default_view">DefaultView</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab_test">TabActivityTest</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="request">Request</string>
+    <string name="offer">Offer</string>
+    <string name="app_label">app_label</string>
+    <string name="search_hint">search_hint</string>
+    <string name="search_title">search_title</string>
+    <string name="map_title">map_title</string>
+
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="user_name">Benutzername</string>
+    <string name="user_name_test">User1234</string>
+    <string name="category_profile">Abonnierte Kategorien:</string>
+    <string name="user_mail_txt">E-Mail Adresse</string>
+    <string name="user_mail_editText">User1234@gmail.com</string>
+
+    <string name="title_activity_login">HelpHood</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
 </resources>
